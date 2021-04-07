@@ -1,11 +1,11 @@
 {
-    "name": "MCT",
-    "short_name": "MCT",
+    "name": "flatiron",
+    "short_name": "flatiron",
     "icons": [{
       "src": "google-touch-icon.png",
       "sizes": "512x512"
     }],
-    "theme_color": "#44c8f5",
-    "background_color": "#44c8f5",
+    "theme_color": "#5051DB",
+    "background_color": "#5051DB",
     "display": "standalone"
 }
